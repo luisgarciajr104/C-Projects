@@ -1,0 +1,14 @@
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\bin\Debug\net9.0\Perform Operations on Arrays in C#.exe
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\bin\Debug\net9.0\Perform Operations on Arrays in C#.deps.json
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\bin\Debug\net9.0\Perform Operations on Arrays in C#.runtimeconfig.json
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\bin\Debug\net9.0\Perform Operations on Arrays in C#.dll
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\bin\Debug\net9.0\Perform Operations on Arrays in C#.pdb
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\obj\Debug\net9.0\Perform Operations on Arrays in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\obj\Debug\net9.0\Perform Operations on Arrays in C#.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\obj\Debug\net9.0\Perform Operations on Arrays in C#.AssemblyInfo.cs
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\obj\Debug\net9.0\Perform Operations on Arrays in C#.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\obj\Debug\net9.0\Perform Operations on Arrays in C#.dll
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\obj\Debug\net9.0\refint\Perform Operations on Arrays in C#.dll
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\obj\Debug\net9.0\Perform Operations on Arrays in C#.pdb
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\obj\Debug\net9.0\Perform Operations on Arrays in C#.genruntimeconfig.cache
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Perform Operations on Arrays in C#\obj\Debug\net9.0\ref\Perform Operations on Arrays in C#.dll
