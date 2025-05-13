@@ -1,0 +1,14 @@
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\bin\Debug\net9.0\Do While and While Statements.exe
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\bin\Debug\net9.0\Do While and While Statements.deps.json
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\bin\Debug\net9.0\Do While and While Statements.runtimeconfig.json
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\bin\Debug\net9.0\Do While and While Statements.dll
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\bin\Debug\net9.0\Do While and While Statements.pdb
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\obj\Debug\net9.0\Do While and While Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\obj\Debug\net9.0\Do While and While Statements.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\obj\Debug\net9.0\Do While and While Statements.AssemblyInfo.cs
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\obj\Debug\net9.0\Do While and While Statements.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\obj\Debug\net9.0\Do While and While Statements.dll
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\obj\Debug\net9.0\refint\Do While and While Statements.dll
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\obj\Debug\net9.0\Do While and While Statements.pdb
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\obj\Debug\net9.0\Do While and While Statements.genruntimeconfig.cache
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\Do While and While Statements\obj\Debug\net9.0\ref\Do While and While Statements.dll

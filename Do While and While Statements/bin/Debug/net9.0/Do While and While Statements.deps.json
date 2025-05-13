@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Do While and While Statements/1.0.0": {
+        "runtime": {
+          "Do While and While Statements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Do While and While Statements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
