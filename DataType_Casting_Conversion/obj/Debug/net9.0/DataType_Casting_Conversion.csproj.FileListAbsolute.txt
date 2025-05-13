@@ -1,0 +1,14 @@
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\obj\Debug\net9.0\DataType_Casting_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\obj\Debug\net9.0\DataType_Casting_Conversion.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\obj\Debug\net9.0\DataType_Casting_Conversion.AssemblyInfo.cs
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\obj\Debug\net9.0\DataType_Casting_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\bin\Debug\net9.0\DataType_Casting_Conversion.exe
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\bin\Debug\net9.0\DataType_Casting_Conversion.deps.json
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\bin\Debug\net9.0\DataType_Casting_Conversion.runtimeconfig.json
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\bin\Debug\net9.0\DataType_Casting_Conversion.dll
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\bin\Debug\net9.0\DataType_Casting_Conversion.pdb
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\obj\Debug\net9.0\DataType_Casting_Conversion.dll
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\obj\Debug\net9.0\refint\DataType_Casting_Conversion.dll
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\obj\Debug\net9.0\DataType_Casting_Conversion.pdb
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\obj\Debug\net9.0\DataType_Casting_Conversion.genruntimeconfig.cache
+C:\Users\luisg\Desktop\C# Coding Practice\CSharpProjects\DataType_Casting_Conversion\obj\Debug\net9.0\ref\DataType_Casting_Conversion.dll
